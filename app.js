@@ -59,6 +59,3 @@ app.listen(process.env.PORT||3000, function() {
   console.log("Server started at 3000")
 });
 
-// apikey
-// 0b4a6d53be53f74eb4711b7e9a14df23-us7
-//list id e0880d1ab6
